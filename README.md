@@ -1,1 +1,2 @@
 https://www.researchgate.net/publication/324275007_ECG_Biometric_Analysis_Using_Walsh-Hadamard_Transform
+https://www.researchgate.net/publication/251194738_Clifford_Gari_D_Azuaje_Francisco_McSharry_Patrick_E_Eds_Advanced_Methods_and_Tools_for_ECG_Analysis
